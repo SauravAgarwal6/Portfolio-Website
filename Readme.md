@@ -1,5 +1,15 @@
 # 🌐 Personal Developer Portfolio - Saurav Agarwal
 
+
+## 🏢 Company: CodTech IT Solutions
+
+- **Intern Name:** Saurav Kumar  
+- **Intern ID:** CT06DA402  
+- **Domain:** Front-End Development  
+- **Duration:** 4 Weeks  
+- **Mentor:** Neela Santosh
+
+
 Welcome to my personal developer portfolio! This is a **responsive single-page web portfolio** built using **HTML, CSS, JavaScript**, and enhanced with **particles.js** for a dynamic background.
 
 ## 🚀 Features
